@@ -131,7 +131,7 @@ or put the service, its users, or third parties at risk.
 We may update these Terms from time to time. The **Effective date** at the
 top reflects the most recent change. For material changes we will update
 the document in the public repository
-([github.com/Shrikee/dcs-sim-brain](https://github.com/Shrikee/dcs-sim-brain))
+([github.com/Shrikee/discord-bot](https://github.com/Shrikee/discord-bot))
 at least 7 days before the change takes effect where practical. Your
 continued use of the Bot after a change takes effect constitutes acceptance
 of the revised Terms.
@@ -150,7 +150,7 @@ the right to bring proceedings in your home jurisdiction.
 
 ## 12. Source code
 
-The Bot is open source: **[github.com/Shrikee/dcs-sim-brain](https://github.com/Shrikee/dcs-sim-brain)**.
+The Bot is open source: **[github.com/Shrikee/discord-bot](https://github.com/Shrikee/discord-bot)**.
 The source-code licence published in that repository applies to the code
 itself and is separate from these Terms, which govern your use of the
 *hosted* instance we operate.
@@ -160,7 +160,7 @@ itself and is separate from these Terms, which govern your use of the
 ## 13. Contact
 
 - Email: **romagw91@gmail.com**
-- Source & issue tracker: [github.com/Shrikee/dcs-sim-brain](https://github.com/Shrikee/dcs-sim-brain)
+- Source & issue tracker: [github.com/Shrikee/discord-bot](https://github.com/Shrikee/discord-bot)
 
 ---
 

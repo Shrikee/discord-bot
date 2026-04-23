@@ -166,7 +166,7 @@ report it via romagw91@gmail.com
 We may update this policy from time to time. The **Effective date** at the
 top of this document reflects the most recent change. For material changes
 we will update the document in the public repository
-([github.com/Shrikee/dcs-sim-brain](https://github.com/Shrikee/dcs-sim-brain))
+([github.com/Shrikee/discord-bot](https://github.com/Shrikee/discord-bot))
 at least 7 days before the change takes effect where practical.
 
 ---
@@ -174,7 +174,7 @@ at least 7 days before the change takes effect where practical.
 ## 10. Contact
 
 - Email: **romagw91@gmail.com**
-- Source & issue tracker: [github.com/Shrikee/dcs-sim-brain](https://github.com/Shrikee/dcs-sim-brain)
+- Source & issue tracker: [github.com/Shrikee/discord-bot](https://github.com/Shrikee/discord-bot)
 
 ---
 
