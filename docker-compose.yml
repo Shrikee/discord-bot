@@ -1,0 +1,18 @@
+services:
+  bot:
+    build: .
+    env_file: .env
+    environment:
+      # Overrides AGENT_API_URL from .env so the container reaches dcs-agent on
+      # the host. If you run dcs-agent in its own Compose stack, either keep
+      # this (dcs-agent's compose publishes :3000 on the host) or join its
+      # network and change to the service name (http://app:3000).
+      AGENT_API_URL: http://host.docker.internal:3000
+    restart: unless-stopped
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
